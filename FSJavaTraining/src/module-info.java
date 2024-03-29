@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author RKDigital
+ *
+ */
+module FSJavaTraining {
+}
